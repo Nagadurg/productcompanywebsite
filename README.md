@@ -35,8 +35,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
-### HOME PAGE:
+```
+HOME PAGE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -87,7 +87,7 @@ Publish the website in the given URL.
   </body>
 </html>
 
-### PRODUCTS PAGE:
+PRODUCTS PAGE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -205,7 +205,7 @@ Publish the website in the given URL.
   </body>
 </html>
 
-### PEOPLE PAGE:
+ PEOPLE PAGE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -291,7 +291,7 @@ Publish the website in the given URL.
         </body>
         </html>
 
-### CONTACT US PAGE:
+CONTACT US PAGE:
 
 !DOCTYPE html>
 <html lang="en">
@@ -340,7 +340,7 @@ Publish the website in the given URL.
       </div>
       </body>
       </html>
-
+```
 ## OUTPUT:
 
 ### Home Page:
