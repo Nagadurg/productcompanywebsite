@@ -345,19 +345,19 @@ CONTACT US PAGE:
 
 ### Home Page:
 
-![output](./P1.PNG)
+![output](https://github.com/Nagadurg/productcompanywebsite/blob/4636766702e4abf185ae8df0f4638adcd535904b/companywebsite/static/img/P1.PNG)
 
 ### Product Page:
 
-![output](./P2.PNG)
+![output](https://github.com/Nagadurg/productcompanywebsite/blob/4636766702e4abf185ae8df0f4638adcd535904b/companywebsite/static/img/P2.PNG)
 
 ### People Page:
 
-![output](./P3.PNG)
+![output](https://github.com/Nagadurg/productcompanywebsite/blob/4636766702e4abf185ae8df0f4638adcd535904b/companywebsite/static/img/P3.PNG)
 
 ### Contact us Page:
 
-![output](./P4.PNG)
+![output](https://github.com/Nagadurg/productcompanywebsite/blob/4636766702e4abf185ae8df0f4638adcd535904b/companywebsite/static/img/P4.PNG)
 
 ## Result:
 
